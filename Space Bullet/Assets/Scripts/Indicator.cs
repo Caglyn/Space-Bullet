@@ -1,8 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
-using System.IO.Compression;
-using Microsoft.Unity.VisualStudio.Editor;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Indicator : MonoBehaviour
